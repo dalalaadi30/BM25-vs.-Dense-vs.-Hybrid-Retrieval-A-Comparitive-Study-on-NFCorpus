@@ -1,0 +1,16 @@
+A,B,metric,mean(A)-mean(B),95% CI low,95% CI high,p (two-sided)
+Hybrid (RRF),BM25,Recall@1,-0.0014,-0.0091,0.0042,0.7889
+Hybrid (RRF),BM25,Recall@5,0.0143,0.0046,0.0252,0.0034
+Hybrid (RRF),BM25,Recall@10,0.0088,0.0001,0.0186,0.0486
+Hybrid (RRF),BM25,MRR@10,0.0337,0.0104,0.0578,0.0036
+Hybrid (RRF),BM25,nDCG@10,0.028,0.0151,0.0414,0.0002
+Hybrid (RRF),Dense (MiniLM),Recall@1,0.0115,0.0033,0.0221,0.0006
+Hybrid (RRF),Dense (MiniLM),Recall@5,0.0106,-0.0034,0.0252,0.1336
+Hybrid (RRF),Dense (MiniLM),Recall@10,0.0023,-0.0096,0.0146,0.7221
+Hybrid (RRF),Dense (MiniLM),MRR@10,0.0354,0.0064,0.064,0.018
+Hybrid (RRF),Dense (MiniLM),nDCG@10,0.017,0.0018,0.0324,0.0268
+Dense (MiniLM),BM25,Recall@1,-0.0129,-0.0256,-0.0024,0.0122
+Dense (MiniLM),BM25,Recall@5,0.0037,-0.0137,0.021,0.6601
+Dense (MiniLM),BM25,Recall@10,0.0065,-0.0089,0.0222,0.3974
+Dense (MiniLM),BM25,MRR@10,-0.0017,-0.0374,0.0347,0.9305
+Dense (MiniLM),BM25,nDCG@10,0.0109,-0.0109,0.0327,0.3262
