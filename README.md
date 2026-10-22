@@ -14,7 +14,7 @@ A controlled comparison of **sparse (BM25)**, **dense (all-MiniLM-L6-v2 + FAISS)
 
 > **Research question:** Does semantic (dense) retrieval outperform keyword-based (BM25) retrieval for biomedical question answering, and where does each approach have the advantage?
 
-📄 **Full paper:** [`report/report.pdf`](report/report.pdf) (LaTeX source in [`report/report.tex`](report/report.tex))
+📄 **Full paper:** [`report pdf/report.pdf`](report/report.pdf) (LaTeX source in [`report pdf/report.tex`](report/report.tex))
 
 ---
 
