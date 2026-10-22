@@ -170,3 +170,8 @@ Released under the [MIT License](LICENSE). © 2026 Aaditya Dalal.
 ## Contact
 
 Aaditya Dalal, University Institute of Engineering and Technology, Maharshi Dayanand University, Rohtak, Haryana, <aadityadalal4@gmail.com>
+
+
+## AI Use
+
+Developed with AI assistance (Claude by Anthropic) for code review, refactoring and writing; experiments were run and results verified by the author.
